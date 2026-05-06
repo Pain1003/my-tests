@@ -1,0 +1,6 @@
+[
+  { "username": "standard_user", "label": "Standard User" },
+  { "username": "locked_out_user", "label": "Locked Out User" },
+  { "username": "problem_user", "label": "Problem User" },
+  { "username": "performance_glitch_user", "label": "Performance User" }
+]
