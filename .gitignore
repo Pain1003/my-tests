@@ -10,4 +10,10 @@ playwright/
 
 # Local environment files
 .env
-.DS_Store
+.DS_Store.env
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/

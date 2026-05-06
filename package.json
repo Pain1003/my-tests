@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Pain1003/my-tests#readme",
   "devDependencies": {
-    "@playwright/test": "^1.59.1"
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0",
+    "dotenv": "^17.4.2"
   }
 }
