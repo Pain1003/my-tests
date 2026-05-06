@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
-import { LoginPage } from './pages/LoginPage';
-import { ProductPage } from './pages/ProductPage';
+import { LoginPage } from '../../pages/LoginPage';
+import { ProductPage } from '../../pages/ProductPage';
 
 test('Full flow using POM and Environment Variables', async ({ page }) => {
     const loginPage = new LoginPage(page);
